@@ -15,7 +15,7 @@ This post will help you get started with writing in markdown. Markdown has diffe
 ## Standard things
 
 ### How to make headers
-It's easy to make headers with markdown. Headers are made with the # symbol and the number of # decides what level the header is. Below follows examples for headers from level 1 to 4. How the headers look is dependant on the aplication and the choises made there, for instance on this website the look is decided by the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
+It's easy to make headers with markdown. Headers are made with the # symbol and the number of # decides what level the header is. Below follows examples for headers from level 1 to 4. How the headers look is dependant on the application and the choices made there, for instance on this website the look is decided by the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
 
 # Level 1
 ```
@@ -88,6 +88,17 @@ else:
 ```
 
 ### how to add links.
+
+To add a normal link use the following.
+```markdown
+[text that will be shown](link)
+```
+
+If you don't want the link to redirect you but you instead want it to open in a new tab then use.
+
+```markdown
+[text that will be shown](link){:target="_blank"}
+```
 
 ### how to make lists
 

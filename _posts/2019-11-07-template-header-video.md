@@ -8,7 +8,7 @@ header:
     provider: youtube
 ---
 
-This post shows how to add a header video. The header video is added in the front matter of the post, for more information on front matter [click here](/frontmatter/).
+This post shows how to add a header video. The header video is added in the front matter of the post, for more information on front matter [click here](/frontmatter/). The code for this post is available at [GitHub](https://github.com/minphase/minphase/blob/master/_posts/2019-11-07-template-header-video.md).
 
 You need to add the following to your front matter, where you specify the provider and video id. For instance if you want to use a youtube video the provider will be youtube and the id will be found in the link to the video after the '=' sign. In this post the video [https://www.youtube.com/watch?v=yYAw79386WI](https://www.youtube.com/watch?v=yYAw79386WI) is used which have the id: yYAw79386WI. 
 ```markdown
