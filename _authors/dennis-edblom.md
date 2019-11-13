@@ -2,7 +2,7 @@
 title: Dennis Edblom
 layout: tag
 permalink: /authors/dennis-edblom/
-taxonomy: dennis-edblom
+taxonomy: Dennis Edblom
 author: Dennis Edblom
 author_profile: true
 header:

@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout: posts
+layout: single
 author_profile: false
 last_modified_at: 2019-11-01T08:06:00-05:00
 ---

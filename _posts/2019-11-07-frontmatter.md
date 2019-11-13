@@ -1,6 +1,11 @@
 ---
 title: "Front matter"
 author: Dennis Edblom
+categories: 
+  - article
+tags:
+  - Dennis Edblom
+  - markdown
 ---
 Front matter is used in Jekyll websites to set variables for a page such as title, layout, author and so on. For more information on front matter you can have a look at the [Jekyll front matter documentation](https://jekyllrb.com/docs/front-matter/).
 

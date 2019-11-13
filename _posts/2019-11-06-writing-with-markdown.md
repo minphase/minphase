@@ -2,9 +2,9 @@
 title:  "Writing with markdown."
 author: Dennis Edblom
 categories: 
-  - submission
+  - article
 tags:
-  - dennis-edblom
+  - Dennis Edblom
   - markdown
 last_modified_at: 2019-11-06T08:06:00-05:00
 toc: true

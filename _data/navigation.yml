@@ -2,7 +2,32 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Articles"
+    url: /articles/
+  - title: "Links"
+    url: /links/
   - title: "Authors"
     url: /authors/
   - title: "Make a submission"
-    url: /submission/
+    url: /submission/submission/
+
+
+# documentation links
+submission:
+  - title: Submission
+    children:
+      - title: "Make a submission"
+        url: /docs/quick-start-guide/
+      - title: "Writing with markdown"
+        url: /docs/structure/
+      - title: "Submission checklist"
+        url: /docs/installation/
+
+  - title: Templates
+    children:
+      - title: "Page"
+        url: /article/template-page/
+      - title: "Header image"
+        url: /article/template-header-image/
+      - title: "Header video"
+        url: /article/template-header-video/
