@@ -57,6 +57,10 @@ $$4+2 = 6$$
   <figcaption>Example of including an image.</figcaption>
 </figure>
 
+### Video
+
+{% include video id="6YLMWU-5H9o" provider="youtube" %}
+
 ## Code that generated this site
 
 
@@ -120,4 +124,7 @@ $$4+2 = 6$$
   <figcaption>Example of including an image.</figcaption>
 </figure>
 
+### Video
+
+{% raw %}{% include video id="6YLMWU-5H9o" provider="youtube" %}{% endraw %}
 ~~~

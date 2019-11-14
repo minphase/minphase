@@ -18,10 +18,6 @@ submission:
     children:
       - title: "Make a submission"
         url: /docs/quick-start-guide/
-      - title: "Writing with markdown"
-        url: /docs/structure/
-      - title: "Submission checklist"
-        url: /docs/installation/
 
   - title: Templates
     children:

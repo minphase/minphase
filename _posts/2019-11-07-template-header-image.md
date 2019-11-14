@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2019-11-13T08:06:00-05:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/yopplotscreenshot.png
 ---
 
@@ -40,7 +40,7 @@ tags:
 last_modified_at: 2019-11-13T08:06:00-05:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/yopplotscreenshot.png
 ---
 
